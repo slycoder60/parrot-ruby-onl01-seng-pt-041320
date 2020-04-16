@@ -6,3 +6,4 @@ def parrot(Bird)
   "Squawk!"
   "Pretty #{Bird}!"
 end
+parrot(Bird)
