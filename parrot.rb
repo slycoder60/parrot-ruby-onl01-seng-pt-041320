@@ -6,4 +6,3 @@ def parrot(Sound)
   "Pretty bird!"
 
 end
-parrot("Pretty bird!")
