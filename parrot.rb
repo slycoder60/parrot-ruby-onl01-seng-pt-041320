@@ -8,4 +8,3 @@ def parrot("Pretty Bird")
 
 
 end
-
