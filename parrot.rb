@@ -4,6 +4,6 @@ def parrot(Bird)
   puts "Squawk!"
 
   "Squawk!"
-  "Pretty #{Bird}!"
+  "#{Pretty Bird!}"
 end
 parrot(Bird)
