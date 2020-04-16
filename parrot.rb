@@ -4,7 +4,7 @@ def parrot(good)
   puts "Squawk!"
 
   "Squawk!"
-  good="Pretty Bird"
+  
 
 end
 parrot()
